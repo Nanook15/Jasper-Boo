@@ -1,0 +1,44 @@
+[
+  {
+    "id": "FRUGI001",
+    "title": "Frugi Boys Sam Striped Hoodie Age 5-6",
+    "price": "18.00",
+    "rrp": "36.00",
+    "merchant": "Frugi",
+    "merchant_id": "4459",
+    "url": "https://www.frugi.com/sample",
+    "image_url": "",
+    "category": "Childrenswear",
+    "in_stock": true,
+    "discount_pct": 50,
+    "fetched_at": "2026-02-18T08:34:43.570055"
+  },
+  {
+    "id": "VERT001",
+    "title": "Vertbaudet Girls Padded Jacket Age 12",
+    "price": "24.00",
+    "rrp": "48.00",
+    "merchant": "Vertbaudet",
+    "merchant_id": "3636",
+    "url": "https://www.vertbaudet.co.uk/sample",
+    "image_url": "",
+    "category": "Childrenswear",
+    "in_stock": true,
+    "discount_pct": 50,
+    "fetched_at": "2026-02-18T08:34:43.570067"
+  },
+  {
+    "id": "VERT002",
+    "title": "Vertbaudet Boys Joggers Age 6",
+    "price": "9.00",
+    "rrp": "18.00",
+    "merchant": "Vertbaudet",
+    "merchant_id": "3636",
+    "url": "https://www.vertbaudet.co.uk/sample2",
+    "image_url": "",
+    "category": "Childrenswear",
+    "in_stock": true,
+    "discount_pct": 50,
+    "fetched_at": "2026-02-18T08:34:43.570070"
+  }
+]
