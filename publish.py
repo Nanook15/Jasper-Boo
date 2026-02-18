@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 APPROVED_FILE = os.path.expanduser("~/kids-deals/approved_deals.json")
-OUTPUT_FILE = os.path.expanduser("~/kids-deals/deals.html")
+OUTPUT_FILE = os.path.expanduser("~/kids-deals/index.html")
 
 def build_page(deals):
     items = ""
