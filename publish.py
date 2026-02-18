@@ -11,7 +11,7 @@ def build_page(deals):
         items += f"""
         <div class="deal">
             <h2>{deal['title']}</h2>
-            <p class="price">{deal['price']} <s>{deal['was']}</s> &mdash; {deal['discount']}</p>
+            <p class="price">{deal['price']} <s>£{deal['rrp']}</s> &mdash; {deal['discount_pct']}% off</p>
             <p class="merchant">{deal['merchant']}</p>
             <a href="{deal['url']}" target="_blank">View Deal &rarr;</a>
         </div>

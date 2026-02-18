@@ -11,7 +11,7 @@
     "category": "Childrenswear",
     "in_stock": true,
     "discount_pct": 50,
-    "fetched_at": "2026-02-18T08:34:43.570055"
+    "fetched_at": "2026-02-18T09:01:00.601667"
   },
   {
     "id": "VERT001",
@@ -25,7 +25,7 @@
     "category": "Childrenswear",
     "in_stock": true,
     "discount_pct": 50,
-    "fetched_at": "2026-02-18T08:34:43.570067"
+    "fetched_at": "2026-02-18T09:01:00.601677"
   },
   {
     "id": "VERT002",
@@ -39,6 +39,6 @@
     "category": "Childrenswear",
     "in_stock": true,
     "discount_pct": 50,
-    "fetched_at": "2026-02-18T08:34:43.570070"
+    "fetched_at": "2026-02-18T09:01:00.601679"
   }
 ]

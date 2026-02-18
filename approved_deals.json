@@ -1,14 +1,4 @@
 {
-  "001": {
-    "id": "001",
-    "title": "Frugi Boys Organic Cotton Hoodie",
-    "price": "\u00a318.00",
-    "was": "\u00a336.00",
-    "discount": "50% off",
-    "merchant": "Frugi",
-    "url": "https://www.frugi.com",
-    "approved_at": "2026-02-18T08:12:09.515244"
-  },
   "FRUGI001": {
     "id": "FRUGI001",
     "title": "Frugi Boys Sam Striped Hoodie Age 5-6",
@@ -21,8 +11,8 @@
     "category": "Childrenswear",
     "in_stock": true,
     "discount_pct": 50,
-    "fetched_at": "2026-02-18T08:34:43.570055",
-    "approved_at": "2026-02-18T08:35:48.200924"
+    "fetched_at": "2026-02-18T09:01:00.601667",
+    "approved_at": "2026-02-18T09:01:06.391887"
   },
   "VERT001": {
     "id": "VERT001",
@@ -36,8 +26,8 @@
     "category": "Childrenswear",
     "in_stock": true,
     "discount_pct": 50,
-    "fetched_at": "2026-02-18T08:34:43.570067",
-    "approved_at": "2026-02-18T08:35:49.527546"
+    "fetched_at": "2026-02-18T09:01:00.601677",
+    "approved_at": "2026-02-18T09:01:07.484210"
   },
   "VERT002": {
     "id": "VERT002",
@@ -51,7 +41,7 @@
     "category": "Childrenswear",
     "in_stock": true,
     "discount_pct": 50,
-    "fetched_at": "2026-02-18T08:34:43.570070",
-    "approved_at": "2026-02-18T08:35:53.380518"
+    "fetched_at": "2026-02-18T09:01:00.601679",
+    "approved_at": "2026-02-18T09:01:08.608727"
   }
 }
